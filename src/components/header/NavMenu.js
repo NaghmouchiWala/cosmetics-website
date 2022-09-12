@@ -19,27 +19,7 @@ const NavMenu = ({ strings, menuWhiteClass, sidebarMenu }) => {
               {strings["home"]}
               
             </Link>
-            <ul className="mega-menu mega-menu-padding">
-              <li>
-                <ul>
-                 
-                 
-                  
-                 
-                 
-                  <li>
-                    <Link to={process.env.PUBLIC_URL + "/home-cosmetics"}>
-                      {strings["home_cosmetics"]}
-                    </Link>
-                  </li>
-                 
-                  
-                </ul>
-              </li>
-              <li>
-               
-              </li>
-            </ul>
+            
           </li>
           <li>
             <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>
