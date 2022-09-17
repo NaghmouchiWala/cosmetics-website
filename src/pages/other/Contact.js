@@ -38,8 +38,8 @@ const Contact = ({ location }) => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+012 345 678 102</p>
-                      <p>+012 345 678 102</p>
+                      <p>+216 noumrouk</p>
+                      <p>+216 noumrouk</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -48,10 +48,10 @@ const Contact = ({ location }) => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="mailto:urname@email.com">urname@email.com</a>
+                        <a href="mailto:urname@email.com">teodora@gmail.com</a>
                       </p>
                       <p>
-                        <a href="//urwebsitenaem.com">urwebsitenaem.com</a>
+                        <a href="//urwebsitenaem.com">teodora.com</a>
                       </p>
                     </div>
                   </div>
@@ -61,7 +61,7 @@ const Contact = ({ location }) => {
                     </div>
                     <div className="contact-info-dec">
                       <p>Address goes here, </p>
-                      <p>street, Crossroad 123.</p>
+                      <p>street, hammam linf.</p>
                     </div>
                   </div>
                   <div className="contact-social text-center">
